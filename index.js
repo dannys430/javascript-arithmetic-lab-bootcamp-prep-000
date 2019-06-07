@@ -1,3 +1,5 @@
 function add() {
-  a += b;
+  number = (a += b);
+  console.log(number)
+
 }
